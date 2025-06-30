@@ -29,7 +29,6 @@ export default function Devices() {
           columns={columns}
           sx={{ border: 0 }}
           hideFooter={true}
-          onRowSelectionModelChange={}
         />
         <Button
           onClick={() => {
